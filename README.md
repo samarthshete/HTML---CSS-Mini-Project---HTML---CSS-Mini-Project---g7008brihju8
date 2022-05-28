@@ -79,7 +79,7 @@ Users should be able to:
 
 ### Links
  
-- Live Site URL: [ https://github.com/samarthshete/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---g7008brihju8/](https://apnaghar-realestate.netlify.app/)
+- Live Site URL: [ApnaGhar- RealEstate](https://apnaghar-realestate.netlify.app/)
 
 ## My process
 
