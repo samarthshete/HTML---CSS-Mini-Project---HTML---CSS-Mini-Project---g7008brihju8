@@ -10,7 +10,7 @@
   <h2 align="center">ApnaGhar - Real estate website</h2>
 
   ApnaGhar is fully responsive Real estate website
-  <a href=" https://apnaghar-realestate.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://apnaghar-realestate.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
