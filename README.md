@@ -10,7 +10,7 @@
   <h2 align="center">ApnaGhar - Real estate website</h2>
 
   ApnaGhar is fully responsive Real estate website
-  <a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
+  <a href=" https://apnaghar-realestate.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -79,7 +79,7 @@ Users should be able to:
 
 ### Links
  
-- Live Site URL: [https://krrish105.github.io/Huddle-Landing-Page/](https://huddlelandingpage-newtonschool.netlify.app/)
+- Live Site URL: [ https://github.com/samarthshete/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---g7008brihju8/](https://apnaghar-realestate.netlify.app/)
 
 ## My process
 
