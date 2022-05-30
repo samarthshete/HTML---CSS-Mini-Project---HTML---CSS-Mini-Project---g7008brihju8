@@ -1203,12 +1203,12 @@ button, a { transition: var(--transition); }
     --fs-2: 1.875rem;
 
   }
+ 
 
-
-
-  /**
-   * REUSED STYLE
-   */
+wrapper .box{
+    width: 100%;
+  }
+  
 
   .container {
     max-width: 550px;
@@ -1289,7 +1289,9 @@ button, a { transition: var(--transition); }
 
   }
 
-
+wrapper .box{
+    width: 100%;
+  }
 
   /**
    * REUSED STYLE
@@ -1438,7 +1440,12 @@ button, a { transition: var(--transition); }
 
   }
 
-
+wrapper .box{
+    width: 100%;
+  }wrapper .box{
+    width: calc(50% - 10px);
+    margin: 10px 0;
+  }
 
   /**
    * REUSED STYLE
@@ -1591,7 +1598,10 @@ button, a { transition: var(--transition); }
 
   }
 
-
+wrapper .box{
+    width: calc(50% - 10px);
+    margin: 10px 0;
+  }
 
   /**
    * REUSED STYLE
